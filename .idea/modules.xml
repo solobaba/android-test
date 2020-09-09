@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidTest.iml" filepath="$PROJECT_DIR$/AndroidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RibyTrackerApp.iml" filepath="$PROJECT_DIR$/.idea/modules/RibyTrackerApp.iml" group="RibyTrackerApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RibyTrackerApp-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RibyTrackerApp-app.iml" group="RibyTrackerApp/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
